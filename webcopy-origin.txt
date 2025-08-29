@@ -1,0 +1,200 @@
+Uri: https://shop.usebigboom.com.br/
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\index.htm
+Content Type: text/html
+
+Uri: https://shop.usebigboom.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shop.usebigboom.com.br/feed/
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shop.usebigboom.com.br/wp-content/litespeed/css/d0229cce98145b1d1b9b865c6c3d0cc4.css?ver=e1585
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\litespeed\css\d0229cce98145b1d1b9b865c6c3d0cc4.css
+Content Type: text/css
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/1267943011289584187.mp4
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\1267943011289584187.mp4
+Content Type: video/mp4
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/1274780526169502877.mp4
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\1274780526169502877.mp4
+Content Type: video/mp4
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/1760242806231922558.mp4
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\1760242806231922558.mp4
+Content Type: video/mp4
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/capa1.jpg
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\capa1.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/capa2.jpg
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\capa2.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/capa3.jpg
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\capa3.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/favicon-150x150.png
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\favicon-150x150.png
+Content Type: image/png
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/favicon-300x300.png
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\favicon-300x300.png
+Content Type: image/png
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/2024/10/LUH_0757-scaled-1.jpg
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\2024\10\LUH_0757-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/bricolagegrotesque-3y9h6as8btxq_nanbjzko3iezx8z6up5besl5jbnz_19ppbpmxuecpwuxjbom_ojwiawa1xp.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\bricolagegrotesque-3y9h6as8btxq_nanbjzko3iezx8z6up5besl5jbnz_19ppbpmxuecpwuxjbom_ojwiawa1xp.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/bricolagegrotesque-3y9h6as8btxq_nanbjzko3iezx8z6up5besl5jbnz_19ppbpmxuecpwuxjbom_ojwiawdfxplds.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\bricolagegrotesque-3y9h6as8btxq_nanbjzko3iezx8z6up5besl5jbnz_19ppbpmxuecpwuxjbom_ojwiawdfxplds.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/bricolagegrotesque-3y9h6as8btxq_nanbjzko3iezx8z6up5besl5jbnz_19ppbpmxuecpwuxjbom_ojwiawdvxplds.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\bricolagegrotesque-3y9h6as8btxq_nanbjzko3iezx8z6up5besl5jbnz_19ppbpmxuecpwuxjbom_ojwiawdvxplds.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/darkergrotesque-u9mh6cuh-mlqlc4bkctayofarksvq77ujfck.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\darkergrotesque-u9mh6cuh-mlqlc4bkctayofarksvq77ujfck.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/darkergrotesque-u9mh6cuh-mlqlc4bkctayofarksvq7huja.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\darkergrotesque-u9mh6cuh-mlqlc4bkctayofarksvq7huja.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/darkergrotesque-u9mh6cuh-mlqlc4bkctayofarksvq7_ujfck.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\darkergrotesque-u9mh6cuh-mlqlc4bkctayofarksvq7_ujfck.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://shop.usebigboom.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://shop.usebigboom.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fshop.usebigboom.com.br%2F
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://shop.usebigboom.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fshop.usebigboom.com.br%2F&format=xml
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://shop.usebigboom.com.br/wp-json/wp/v2/pages/134
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\wp-json\wp\v2\pages\134
+Content Type: application/json
+
+Uri: https://shop.usebigboom.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.facebook.com/tr?id=1083795323936931&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\shop.usebigboom.com.br\tr
+Content Type: text/plain
+
