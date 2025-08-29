@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BigBoom - Indica</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .header {
+            background-color: #f76b86 !important;
+            color: #fff;
+        }
+
+        .footer {
+            background-color: #f76b86 !important;
+            color: #fff;
+        }
+
+        .footer p {
+            color: #fff;
+        }
+
+        /* Corrigindo distorção vertical da imagem do logo no footer */
+        .footer-logo-img {
+            height: auto;
+            max-height: 80px;
+            width: auto;
+            max-width: 100%;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div class="header">
+            <div class="pattern-overlay"></div>
+            <div class="logo-container">
+                <header>
+  <img src="/img/logo.png" alt="Logo da empresa">
+</header>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="content">
+                <h2 class="title">
+                    Faça 3 pessoas experimentarem também com seu link e ganhe um kit exclusivo com 3 produtos da nossa marca grátis!
+                </h2>
+
+                <div class="product-image">
+                    <img src="produto.png" alt="Kit Exclusivo 3x Ovos de Páscoa">
+                </div>
+
+                <p class="description">
+                    Compartilhe seu link exclusivo abaixo e quando 3 pessoas realizarem um pedido através dele, 
+                    você ganhará o Kit Exclusivo com Creatina, Whey e Pré-Treino totalmente grátis!
+                </p>
+
+                <div class="copy-link-container">
+                    <label class="copy-link-label">Seu link exclusivo:</label>
+                    <div class="copy-link-input-group">
+                        <input type="text" value="http://lojabigboom.shop/indica/DgRmaU" readonly class="copy-link-input">
+                        <button class="copy-button" id="copyButton">
+                            <i class="fas fa-copy"></i>
+                            Copiar
+                        </button>
+                    </div>
+                </div>
+
+                <div class="share-container">
+                    <button class="share-button" id="shareButton">
+                        <i class="fas fa-share-alt"></i>
+                        Compartilhar
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <div class="footer-logo">
+                <img src="/img/logo.png" alt="Cacau Show Logo" class="footer-logo-img">
+            </div>
+            <div class="footer-text">
+                <p>© Copyright 2025. Todos os direitos reservados. | BigBoom Suplementos LTDA 32.143.933/0003-96 |</p>
+                <p>Endereço: Rodovia Anhanguera KM 31,7, 800, Bloco 300 Galpão 20, 21 e 22 - Área Sefia, Bairro Empresarial
+                    Anhanguera, Cajamar - SP CEP 07-790-980</p>
+            </div>
+        </footer>
+    </main>
+
+    <script>
+        document.getElementById('copyButton').addEventListener('click', function () {
+            const copyText = document.querySelector('.copy-link-input');
+            copyText.select();
+            document.execCommand('copy');
+
+            const originalText = this.innerHTML;
+            this.innerHTML = '<i class="fas fa-check"></i> Copiado!';
+
+            setTimeout(() => {
+                this.innerHTML = originalText;
+            }, 2000);
+        });
+
+        document.getElementById('shareButton').addEventListener('click', async function () {
+            if (navigator.share) {
+                try {
+                    await navigator.share({
+                        title: document.title,
+                        text: "Dá uma olhada nisso!",
+                        url: window.location.href
+                    });
+                } catch (err) {
+                    console.error("Erro ao compartilhar:", err);
+                }
+            } else {
+                alert("Compartilhamento não suportado neste dispositivo.");
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rastreamento de Pedido</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header, footer {
+      background-color: #f76b86;
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    header img {
+      max-height: 60px;
+    }
+
+    main {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .tracker {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 80%;
+      max-width: 800px;
+    }
+
+    .steps {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      position: relative;
+      margin-bottom: 30px;
+    }
+
+    .step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      flex: 1;
+      position: relative;
+      z-index: 1;
+    }
+
+    .step i {
+      font-size: 30px;
+      padding: 15px;
+      border-radius: 50%;
+      background-color: #e0e0e0;
+      color: white;
+      margin-bottom: 10px;
+    }
+
+    .step.active i {
+      background-color: #f76b86;
+    }
+
+    .step span {
+      font-weight: bold;
+      color: #555;
+    }
+
+    .progress-line {
+      position: absolute;
+      top: 32px;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background-color: #e0e0e0;
+      z-index: 0;
+    }
+
+    .progress-fill {
+      height: 100%;
+      width: 50%;
+      background-color: #f76b86;
+    }
+  </style>
+</head>
+<body>
+  <header>
+  <img src="/img/logo.png" alt="Logo da empresa">
+</header>
+
+  <main>
+    <div class="tracker">
+      <div class="steps">
+        <div class="progress-line">
+          <div class="progress-fill"></div>
+        </div>
+
+        <div class="step active">
+          <i class="fas fa-check"></i>
+          <span>Pedido Feito</span>
+        </div>
+
+        <div class="step active">
+          <i class="fas fa-truck"></i>
+          <span>Em Separação / A Caminho</span>
+        </div>
+
+        <div class="step">
+          <i class="fas fa-box"></i>
+          <span>Entregue</span>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer style="background-color: #f76b86; color: white; text-align: center; padding: 20px;">
+    <p>&copy; 2025 - BigBoom Suplementos</p>
+    
+    <div class="footer-text" style="color: white; margin-top: 10px;">
+        <p>© Copyright 2025. Todos os direitos reservados. | BigBoom Suplementos LTDA 32.143.933/0003-96 |</p>
+        <p>Endereço: Rodovia Anhanguera KM 31,7, 800, Bloco 300 Galpão 20, 21 e 22 - Área Sefia, Bairro Empresarial
+            Anhanguera, Cajamar - SP CEP 07-790-980</p>
+    </div>
+</footer>
+
+</body>
+</html>
